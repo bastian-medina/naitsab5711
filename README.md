@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bastian Medina</h1>
-<h3 align="center">A passionate backend developer from Chile</h3>
+<h3 align="center">A passionate full stack developer from Chile</h3>
 
-- 🌱 I’m currently learning **php and React**
+- 🌱 I’m currently learning **DevOps and Pinia**
 
 - 💬 Ask me about **my projects or me**
 
